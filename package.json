@@ -1,0 +1,15 @@
+{
+  "name": "magicwebp",
+  "version": "1.0.0",
+  "description": "magic images",
+  "main": "index.js",
+  "scripts": {
+    "daimage": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
+  }
+}
